@@ -1,3 +1,3 @@
-# day1_test.py
+# day1_intro.py
 name = input("Enter your name: ")
 print(f"Hello {name}, welcome to python-learning-2025 🚀")
